@@ -1,2 +1,2 @@
 # discord-bot
-building a discord bot to do some helpful functions!
+building a discord bot using discords api to do some helpful functions!
